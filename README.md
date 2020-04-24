@@ -2,15 +2,28 @@
 
   
 
+  
+
 Of course you need python to run this script
+
+And to install the dependeces (beautifulsoup4 and requests)
+
+To do that just run
+``pip install -r requirements.txt``
 
   
 
 This script will make a directory called 4chan in the current directory it is invoked from
 
+  
+
 then it will ask you for the link to the thread and then for the name of the sub directory of the 4chan directory
 
+  
+
 where all the videos and pics of that thread will be stored
+
+  
 
   
 
@@ -18,7 +31,11 @@ Its really easy to use:
 
   
 
+  
+
 1) Run the sciprt
+
+  
 
   
 
@@ -26,7 +43,11 @@ Its really easy to use:
 
   
 
+  
+
 3) Enter the the name you would like to use for the directory that will contain all the downloaded data
+
+  
 
   
 
@@ -34,7 +55,11 @@ Its really easy to use:
 
   
 
+  
+
 I hope you enjoy this sciprt
+
+  
 
   
 
